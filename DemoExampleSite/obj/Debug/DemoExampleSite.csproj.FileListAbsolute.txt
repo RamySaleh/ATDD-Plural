@@ -1,0 +1,6 @@
+D:\Projects\ATDD Plural\Final code\Demo\DemoExampleSite\bin\DemoExampleSite.dll.config
+D:\Projects\ATDD Plural\Final code\Demo\DemoExampleSite\bin\DemoExampleSite.dll
+D:\Projects\ATDD Plural\Final code\Demo\DemoExampleSite\bin\DemoExampleSite.pdb
+D:\Projects\ATDD Plural\Final code\Demo\DemoExampleSite\obj\Debug\DemoExampleSite.csprojResolveAssemblyReference.cache
+D:\Projects\ATDD Plural\Final code\Demo\DemoExampleSite\obj\Debug\DemoExampleSite.dll
+D:\Projects\ATDD Plural\Final code\Demo\DemoExampleSite\obj\Debug\DemoExampleSite.pdb
